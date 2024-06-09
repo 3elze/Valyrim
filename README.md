@@ -28,7 +28,8 @@ Vortex: Drag 'n' Drop should work fine
 
 
 R2Modman: 
-Download This mod [ ] and install this mod content inside that mod folder. 
+Download This mod [ https://thunderstore.io/c/valheim/p/Belze/Valyrim/ ] 
+Install this mod(this on github) content inside that mod(link up here) folder. 
 In the mod manager, go to settings and select the 'Location' category, then "Browse profile folder".
 From here, click Bepinex then click plugins, look for the mod you downloaded from Thunderstore and put everything inside that folder, like it belonged to that mod.
 
